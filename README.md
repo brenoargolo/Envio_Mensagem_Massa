@@ -12,3 +12,4 @@ A automação permitirá que você carregue uma planilha Excel, com todos os nom
 <li> Jupyter Notebook
   
 # FERRAMENTAS DE INSTALAÇÃO: [requests.txt](https://github.com/brenoargolo/Envio_Mensagem_Massa/files/9862021/requests.txt)
+.
